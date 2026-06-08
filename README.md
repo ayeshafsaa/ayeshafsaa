@@ -6,7 +6,7 @@
 
 Building beautiful, responsive UIs and shipping projects that matter.
 
-[🌐 Portfolio](#-featured-projects) • [📧 Email](mailto:awesha.x@gmail.com) • [🎨 Fiverr][(https://www.fiverr.com/ayeshaskitchen/buying?source=avatar_menu_profile)]
+[🌐 Portfolio](#-featured-projects) • [📧 Email](mailto:awesha.x@gmail.com) • [🎨 Fiverr](https://www.fiverr.com/ayeshaskitchen/buying?source=avatar_menu_profile)
 
 </div>
 
