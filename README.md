@@ -83,7 +83,7 @@ Modern, professional business platform showcasing design excellence and user exp
 
 **Tech:** React • Tailwind CSS • Modern Design
 
-**[View Live](https://nexus-business-neon.vercel.app/)**
+**[View Live](https://nexus-business-neon.vercel.app/) • [GitHub Repo](https://github.com/ayeshafsaa/3d-portfolio)**
 
 ---
 
@@ -94,7 +94,7 @@ Real-time dispatch tracking platform for logistics optimization.
 
 **Tech:** React • APIs • Dashboard Design
 
-**[View Live](https://swifthaul-web.netlify.app/)**
+**[View Live](https://swifthaul-web.netlify.app/)• [GitHub Repo](https://github.com/ayeshafsaa/3d-portfolio)**
 
 ---
 
@@ -178,8 +178,8 @@ I'm always interested in:
 
 ### 📱 Find Me On:
 - **Portfolio:** [Visit My Website](#-featured-projects)
-- **Fiverr:** [Check my freelance work](https://www.fiverr.com/ayeshaskitchen/buying?source=avatar_menu_profile))
-- **Email:** [ayesha@example.com](mailto:awesha.x@gmail.com)
+- **Fiverr:** [Check my freelance work](https://www.fiverr.com/ayeshaskitchen/buying?source=avatar_menu_profile)
+- **Email:** [awesha.x@example.com](mailto:awesha.x@gmail.com)
 
 ---
 
