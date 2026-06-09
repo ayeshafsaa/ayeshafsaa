@@ -72,7 +72,7 @@ Building beautiful, responsive UIs and shipping projects that matter.
 
 **Tech:** React • Three.js • Framer Motion • Tailwind CSS
 
-**[View Live](https://your-3d-portfolio-url.vercel.app/) • [GitHub Repo](https://github.com/ayeshafsaa/3d-portfolio)**
+**[View Live](https://portfolio-six-ashen-58.vercel.app/)• [GitHub Repo](https://github.com/ayeshafsaa/portfolio)**
 
 ---
 
