@@ -6,7 +6,7 @@
 
 Building beautiful, responsive UIs and shipping projects that matter.
 
-[🌐 Portfolio](#-featured-projects) • [📧 Email](mailto:awesha.x@gmail.com) • [🎨 Fiverr](https://www.fiverr.com/ayeshaskitchen/buying?source=avatar_menu_profile)
+[🌐 Portfolio](https://portfolio-six-ashen-58.vercel.app/)• [📧 Email](mailto:awesha.x@gmail.com) • [🎨 Fiverr](https://www.fiverr.com/ayeshaskitchen/buying?source=avatar_menu_profile)
 
 </div>
 
@@ -177,7 +177,7 @@ I'm always interested in:
 - Discussing web technologies
 
 ### 📱 Find Me On:
-- **Portfolio:** [Visit My Website](#-featured-projects)
+- **Portfolio:** [Visit My Website](https://portfolio-six-ashen-58.vercel.app/)
 - **Fiverr:** [Check my freelance work](https://www.fiverr.com/ayeshaskitchen/buying?source=avatar_menu_profile)
 - **Email:** [awesha.x@example.com](mailto:awesha.x@gmail.com)
 
